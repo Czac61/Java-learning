@@ -15,6 +15,10 @@ public class Player {
         System.out.println("User Name: " + playerUserName);
         System.out.println("Diamonds: " + diamonds);
         System.out.println("Total: " + (2 + 3));
+        System.out.println(7 / 2);
+        System.out.println(7.0 / 2);
+        System.out.println(7 % 2);
+       // int health = 9.5; 
     }
     
 
